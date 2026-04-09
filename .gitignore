@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (large files)
+WESAD/
+Dataset/
+
+# Model weights
+net/
+*.pth
+
+# Results
+results/
+
+# MacOS
+.DS_Store
